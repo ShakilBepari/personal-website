@@ -26,6 +26,7 @@ section{
 }
 .secend-sec-banner{
     background-image: url("Image/biography-bg.png");
+    padding-bottom: 150px;
 }
 #name-color{
     color: rgb(220, 78, 125);
@@ -61,12 +62,38 @@ p{
 .third-sec-banner{
     background-image: url("Image/latest-work-bg.png");
     height: 600px;
+    margin-left: -80px;
 }
 .center-last{
     text-align: center;
 }
-.button-last{
-    padding: 5px 0px 5px 0px;
+#hilight-lastp{
+    font-size: 24px;
+    margin-left: -40px;
+}
+.last-button-2{
     background-color: rgb(220, 78, 125);
-    text-align: center;
+    padding: 40px 150px 40px 150px;
+    width: 15%;
+    border-radius: 10px;
+    margin-left: 34%;
+}
+
+.last-button{
+    color: white;
+    text-decoration: none;
+}
+.last-button p{
+    color: white;
+}
+#color-p{
+    color:rgb(45, 42, 42);
+    font-weight: 500;
+}
+#footer-p{
+    font-size: 12px;
+    margin-top: 120px;
+}
+footer{
+    background-image: url("Image/footer-bg.png");
 }
